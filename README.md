@@ -4,8 +4,7 @@ Informes públicos hechos con Power BI.
 
 Welcome to the Power BI Dashboard Repository by Ximena Cardich.
 
-![power-bi-logo-1](https://github.com/user-attachments/assets/8d41e135-5ffa-4f71-a6ac-27f6b5c7cd76)
-
+![image](https://github.com/user-attachments/assets/47dd88a1-8f2f-4092-acf8-fe8ff4add719)
 
 # Introduction
 
