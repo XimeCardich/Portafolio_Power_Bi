@@ -1,4 +1,4 @@
-# Portafolio_Power_Bi
+# Dashboard Repository
 Informes públicos hechos con Power BI.
 
 
